@@ -1,0 +1,10 @@
+# Ignore Python's temporary cache files
+__pycache__/
+*.py[cod]
+
+# Ignore environment variables (secrets)
+.env
+
+# Ignore local virtual environments
+venv/
+env/
