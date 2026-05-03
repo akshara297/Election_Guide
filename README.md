@@ -7,4 +7,5 @@ An interactive tool to help citizens navigate the complexities of the election p
 
 ## How to Run
 1. `pip install -r requirements.txt`
-2. `streamlit run app.py`# Election_Guide
+2. `streamlit run app.py`
+# Election_Guide
